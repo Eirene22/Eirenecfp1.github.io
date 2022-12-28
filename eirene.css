@@ -1,0 +1,8 @@
+input[text], input[password], input[email]  {
+    display: block;
+    width: 20%;
+    padding: 12px 20px;
+    margin-bottom: 12px;
+    background-color: grey;
+   
+}
